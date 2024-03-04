@@ -1,0 +1,9 @@
+.col {
+    border: 1px black solid;
+}
+.purp {
+    background-color: magenta;
+}
+.gradial {
+    background: radial-gradient(#e6a3f3, #40d1fd);
+}
